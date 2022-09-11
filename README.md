@@ -1,4 +1,4 @@
-### Hi there 👋
+### 가천대 인공지능전공 22학번 이재혁 👋
 
 <!--
 **hamgui-2022/hamgui-2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
